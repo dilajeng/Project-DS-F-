@@ -1,0 +1,13 @@
+Package yang harus di install:
+(shiny)
+(here)
+(vroom)
+(dplyr)
+(ggplot2)
+(plotly)
+(syuzhet)
+(twitteR)
+(ROAuth)
+(tm)
+(rtweet)
+(wordcloud)
